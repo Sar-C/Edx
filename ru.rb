@@ -79,5 +79,5 @@ class Rectangle
         puts "area = #{ar}"
     end
 end
-tek = Rectangle.new
-tek.area3()
+tek = Circle.new
+tek.area2()
